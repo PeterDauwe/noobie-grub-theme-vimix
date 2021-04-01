@@ -2,7 +2,7 @@
 # Designed for any resolution
 
 # Global Property
-title-text: "ArcoLinux Bobo Variation"
+title-text: "ArcoBobo-i3"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 14"
