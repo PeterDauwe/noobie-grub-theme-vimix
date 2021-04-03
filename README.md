@@ -1,1 +1,1 @@
-# bobo-wallpapers
+** noobie-grub-theme-vimix **
